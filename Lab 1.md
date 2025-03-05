@@ -4,7 +4,7 @@
 **Answer:**  
 - My PC supports AMD virtualization technology.  
 - On my laptop, I use Intel virtualization technology.
-- I have Enabled virtualization technology on both pc and laptop.
+- I have enabled virtualization technology on both pc and laptop.
 
 ---
 
