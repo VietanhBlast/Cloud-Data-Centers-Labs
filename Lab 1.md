@@ -1,4 +1,4 @@
-Lab 1:
+#Lab 1:
 1. Check if your processor supports Intel/AMD virtualization technology. Enable Intel virtualization technology in BIOS if possible.
 Answer:
 My pc has AMD virtualization technology. 
