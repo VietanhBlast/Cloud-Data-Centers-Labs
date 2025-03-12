@@ -1,6 +1,6 @@
 # Lab 1
-Name: Viet anh pham 
-Number: C00262154 
+- Name: Viet anh pham 
+- Number: C00262154 
 
 ### 1. Check if your processor supports Intel/AMD virtualization technology. Enable Intel virtualization technology in BIOS if possible.
 **Answer:**  
