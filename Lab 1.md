@@ -1,7 +1,7 @@
 # Lab 1
 - Name: Viet anh pham 
 - Number: C00262154
-- https://setuo365-my.sharepoint.com/:w:/g/personal/c00262154_setu_ie/EWsPJs8ex_5MglG8TPM39JQBgslC6T0CqCWrHu2_Gu7vnw?e=wpafqJ
+- word document: https://setuo365-my.sharepoint.com/:w:/g/personal/c00262154_setu_ie/EWsPJs8ex_5MglG8TPM39JQBgslC6T0CqCWrHu2_Gu7vnw?e=wpafqJ
 
 ### 1. Check if your processor supports Intel/AMD virtualization technology. Enable Intel virtualization technology in BIOS if possible.
 **Answer:**  
