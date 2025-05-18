@@ -11,6 +11,7 @@
 - PDF : https://setuo365-my.sharepoint.com/:b:/g/personal/c00262154_setu_ie/Ec0vuV8CyoxGmcIW5rurscUBQUf3Iz538af4WjpdpSHa8A?e=2V3mLx
 
 # Labs 1-6 Links
+- Note : All Labs completed 
 - Lab 1 Link : https://setuo365-my.sharepoint.com/:w:/g/personal/c00262154_setu_ie/EWsPJs8ex_5MglG8TPM39JQBgslC6T0CqCWrHu2_Gu7vnw?e=wpafqJ
 
 - Lab 2 Link : https://setuo365-my.sharepoint.com/:w:/g/personal/c00262154_setu_ie/Ed7588gDkeNHggOGBvWkL9QBlFX1r74Ri3lJhybbUD8DTg?e=vvm4u4
