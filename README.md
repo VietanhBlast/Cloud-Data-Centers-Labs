@@ -1,5 +1,6 @@
 # Trailhead Account
 - Student name : viet anh pham
+- Note : All tasks completed and received full marks/points for all lab (including optional Modules)
 - Link to Trailhead account : https://www.salesforce.com/trailblazer/lhk1gdak0mlqwo0aq3
 
 # Confidential Computing in the Cloud – Final Report
